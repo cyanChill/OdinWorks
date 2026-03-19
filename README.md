@@ -5,8 +5,6 @@ This is a app that functions similarly to Facebook. You can create an account an
 - A bonus is that you can sign-in with Facebook!
 - There's also the option of signing into a shared demo account (by selecting the option on the login page).
 
-**Live Demostration:** https://odin-works.netlify.app/
-
 > **Note:** It may take some time for the app to work as the backend running on fly.io may need to wake up.
 
 
